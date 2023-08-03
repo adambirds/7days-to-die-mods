@@ -1,4 +1,4 @@
-# 7days-to-die-mods
+# 7 Days to Die Mods
 A collection of various 7 Days to Die Mods I have created.
 
 
