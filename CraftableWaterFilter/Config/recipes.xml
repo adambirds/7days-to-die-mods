@@ -1,0 +1,11 @@
+<configs>
+    <append xpath="/recipes">
+        <recipe name="resourceWaterFilter" count="1" craft_area="workbench" tags="workbenchCrafting">
+            <ingredient name="resourceScrapPolymers" count="20"/>
+			<ingredient name="resourceScrapIron" count="50"/>
+			<ingredient name="resourceCloth" count="20"/>
+			<ingredient name="resourceCrushedSand" count="5"/>
+			<ingredient name="resourceCoal" count="20"/>
+        </recipe>
+    </append>
+</configs>

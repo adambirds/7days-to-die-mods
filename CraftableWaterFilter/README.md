@@ -1,6 +1,6 @@
-# Better Paper Crafting Modlet
+# Craftable Water Filter Mod
 
-Adds the ability to craft paper from wood, clay and plant fibers using the chemistry station. It allows you to keep up with paper demands once you have reached end game and are using it for shotgun shells and paper is hard to come by in bulk.
+This mod allows you to craft the water filter item at a workbench rather than having to buy it from the trader.
 
 ## Local Installation
 
@@ -8,7 +8,7 @@ Adds the ability to craft paper from wood, clay and plant fibers using the chemi
 
 2. Extract the zip file.
 
-3. Copy the `BetterPaperCrafting` folder into your `7 Days To Die/Mods` folder.
+3. Copy the `CraftableWaterFilter` folder into your `7 Days To Die/Mods` folder.
 
 4. Start the game.
 
@@ -18,7 +18,7 @@ Adds the ability to craft paper from wood, clay and plant fibers using the chemi
 
 2. Extract the zip file.
 
-3. Upload the `BetterPaperCrafting` folder into your `7 Days To Die/Mods` folder on the server.
+3. Upload the `CraftableWaterFilter` folder into your `7 Days To Die/Mods` folder on the server.
 
 4. Start/Restart the server.
 
