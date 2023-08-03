@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<Name value = "BetterPaperCrafting"/>
+	<DisplayName value = "Better Paper Crafting Mod"/>
+	<Description value = "This mod makes paper crafting easier for end game when the usual supplies don't provide enough paper for the ammo required."/>
+	<Author value = "Adam Birds"/>
+	<Version value = "1.0"/>
+	<Website value = "https://github.com/adambirds/7days-to-die-mods"/>
+</xml>
