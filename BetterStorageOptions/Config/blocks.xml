@@ -1,0 +1,7 @@
+<configs>
+    <!-- Remove the following properties from the player created Gun Safe block -->
+    
+    <remove xpath="/blocks/block/[@name='cntGunSafe_Player']/property[@name='LockPickItem']"/>
+    <remove xpath="/blocks/block/[@name='cntGunSafe_Player']/property[@name='LockPickTime']"/>
+    <remove xpath="/blocks/block/[@name='cntGunSafe_Player']/property[@name='LockPickBreakChance']"/>
+</configs>

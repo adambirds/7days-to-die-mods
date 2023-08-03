@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<Name value = "BetterStorageOptions"/>
+	<DisplayName value = "Better Storage Options Mod"/>
+	<Description value = "This mod provides you with more storage options such as crafting hardened crates, ammunition boxes, military boxes that act like normal storage boxes."/>
+	<Author value = "Adam Birds"/>
+	<Version value = "1.0"/>
+	<Website value = "https://github.com/adambirds/7days-to-die-mods"/>
+</xml>
