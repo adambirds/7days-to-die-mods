@@ -1,0 +1,19 @@
+<configs>
+    <append xpath="/recipes">
+        <!-- Wooden Writable Storage Crate -->
+        <recipe name="cntWoodWritableCrate" count="1">
+            <ingredient name="resourceWood" count="12"/>
+            <ingredient name="resourceNails" count="10"/>
+        </recipe>
+        <!-- Iron Writable Storage Crate -->
+        <recipe name="cntIronWritableCrate" count="1">
+            <ingredient name="resourceForgedIron" count="12"/>
+            <ingredient name="resourceNails" count="10"/>
+        </recipe>
+        <!-- Steel Writable Storage Crate -->
+        <recipe name="cntSteelWritableCrate" count="1">
+            <ingredient name="resourceForgedSteel" count="12"/>
+            <ingredient name="resourceNails" count="10"/>
+        </recipe>
+    </append>
+</configs>
