@@ -1,0 +1,8 @@
+<configs>
+    <set xpath="/recipes/recipe[@name='electricfencepost']/ingredient[@name='resourceForgedIron']/@count">20</set>
+    <set xpath="/recipes/recipe[@name='electricfencepost']/ingredient[@name='resourceElectricalParts']/@count">5</set>
+    <append xpath="/recipes/recipe[@name='electricfencepost']">
+        <ingredient name="resourceForgedSteel" count="20"/>
+    </append>
+    <set xpath="recipes/recipe[@name='electricfencepost']/effect_group/passive_effect[@name='CraftingIngredientCount']/@tags">resourceForgedIron,resourceElectricParts,resourceForgedSteel</set>
+</configs>

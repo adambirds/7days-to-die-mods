@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<Name value = "ReinforcedElectricFences"/>
+	<DisplayName value = "Reinforced Electric Fences Mod"/>
+	<Description value = "This mod makes the Electric Fence Post massively reinforced but requires Forged Steel to craft and repair."/>
+	<Author value = "Adam Birds"/>
+	<Version value = "1.0"/>
+	<Website value = "https://github.com/adambirds/7days-to-die-mods"/>
+</xml>

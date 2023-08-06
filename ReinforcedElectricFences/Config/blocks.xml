@@ -1,0 +1,6 @@
+<configs>
+    <set xpath="/blocks/block/[@name='electricfencepost']/property[@name='MaxDamage']/@value">30000</set>
+    <append xpath="/blocks/block/[@name='electricfencepost']/property[@class='RepairItems']">
+        <property name="resourceForgedSteel" value="20"/>
+    </append>
+</configs>
