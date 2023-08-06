@@ -1,6 +1,6 @@
 <configs>
     <set xpath="/recipes/recipe[@name='electricfencepost']/ingredient[@name='resourceForgedIron']/@count">20</set>
-    <set xpath="/recipes/recipe[@name='electricfencepost']/ingredient[@name='resourceElectricalParts']/@count">5</set>
+    <set xpath="/recipes/recipe[@name='electricfencepost']/ingredient[@name='resourceElectricParts']/@count">5</set>
     <append xpath="/recipes/recipe[@name='electricfencepost']">
         <ingredient name="resourceForgedSteel" count="20"/>
     </append>
