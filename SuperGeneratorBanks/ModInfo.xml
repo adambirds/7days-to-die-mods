@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<Name value = "SuperGeneratorBanks"/>
+	<DisplayName value = "Super Generator Banks Mod"/>
+	<Description value = "This mod makes the Generator Bank and Battery Banks supply a lot more power."/>
+	<Author value = "Adam Birds"/>
+	<Version value = "1.0"/>
+	<Website value = "https://github.com/adambirds/7days-to-die-mods"/>
+</xml>

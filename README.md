@@ -10,6 +10,8 @@ A collection of various 7 Days to Die Mods I have created.
 
 * [**Reinforced Electric Fences**](/ReinforcedElectricFences/README.md) - This mod makes the Electric Fence Post massively reinforced but requires Forged Steel to craft and repair.
 
+* [**Super Generator Banks**](/SuperGeneratorBanks/README.md) - This mod makes the Generator Bank and Battery Banks supply a lot more power.
+
 * [**Better Storage Options**](/BetterStorageOptions/README.md) - This mod provides you with more storage options such as crafting hardened crates, ammunition boxes, military boxes that act like normal storage boxes. **Note:** This mod is currently a work in progress.
 ## License
 
