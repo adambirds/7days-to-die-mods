@@ -1,12 +1,12 @@
 <configs>
     <set xpath="/blocks/block[@name='generatorbank']/property[@name='MaxFuel']/@value">50000</set>
-    <set xpath="/blocks/block[@name='generatorbank']/property[@name='MaxPower']/@value">50000</set>
+    <set xpath="/blocks/block[@name='generatorbank']/property[@name='MaxPower']/@value">60000</set>
     <set xpath="/blocks/block[@name='generatorbank']/property[@name='OutputPerFuel']@value">25000</set>
     <set xpath="/blocks/block[@name='generatorbank']/property[@name='OutputPerStack']/@value">10000</set>
 
     <!--Also mod the battery bank-->
 
-    <set xpath="/blocks/block[@name='batterybank']/property[@name='MaxPower']/@value">50000</set>
+    <set xpath="/blocks/block[@name='batterybank']/property[@name='MaxPower']/@value">60000</set>
     <set xpath="/blocks/block[@name='batterybank']/property[@name='OutputPerStack']/@value">5000</set>
     <set xpath="/blocks/block[@name='batterybank']/property[@name='OutputPerCharge']/@value">10000</set>
 </configs>
