@@ -1,7 +1,19 @@
 <configs>
     <!-- Remove the following properties from the player created Gun Safe block -->
-    
-    <remove xpath="/blocks/block/[@name='cntGunSafe_Player']/property[@name='LockPickItem']"/>
-    <remove xpath="/blocks/block/[@name='cntGunSafe_Player']/property[@name='LockPickTime']"/>
-    <remove xpath="/blocks/block/[@name='cntGunSafe_Player']/property[@name='LockPickBreakChance']"/>
+
+    <remove xpath="/blocks/block[@name='cntGunSafe_Player']/property[@name='LockPickItem']"></remove>
+    <remove xpath="/blocks/block[@name='cntGunSafe_Player']/property[@name='LockPickTime']"></remove>
+    <remove xpath="/blocks/block[@name='cntGunSafe_Player']/property[@name='LockPickBreakChance']"></remove>
+
+    <!-- Change the class on Writable Crates -->
+
+    <set xpath="/blocks/block[@name='cntSteelWritableCrate']/property[@name='Class']/@value">SecureLootSigned</set>
+    <set xpath="/blocks/block[@name='cntIronWritableCrate']/property[@name='Class']/@value">SecureLootSigned</set>
+    <set xpath="/blocks/block[@name='cntWoodWritableCrate']/property[@name='Class']/@value">SecureLootSigned</set>
+
+    <!-- Add the storage crates to creative mode -->
+
+    <set xpath="/blocks/block[@name='cntWoodWritableCrate']/property[@name='CreativeMode']/@value">Player</set>
+    <set xpath="/blocks/block[@name='cntIronWritableCrate']/property[@name='CreativeMode']/@value">Player</set>
+    <set xpath="/blocks/block[@name='cntSteelWritableCrate']/property[@name='CreativeMode']/@value">Player</set>
 </configs>
