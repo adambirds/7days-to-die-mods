@@ -1,0 +1,11 @@
+<configs>
+    <set xpath="/items/item[@name='thrownDynamite']/property[@name='Explosion.RadiusBlocks']/@value">20</set>
+    <!--Increase blockdamage <effect_group tiered="false">
+		<passive_effect name="BlockDamage" operation="base_set" value="3000" tags="perkDemolitionsExpert"/>-->
+
+    <set xpath="/items/item[@name='thrownDynamite']/effect_group/passive_effect[@name='BlockDamage']/@value">5000</set>
+    <!--"ammoRocketHE"-->
+
+    <set xpath="/items/item[@name='ammoRocketHE']/property[@name='Explosion.RadiusBlocks']/@value">20</set>
+    <set xpath="/items/item[@name='ammoRocketHE']/effect_group/passive_effect[@name='BlockDamage']/@value">5000</set>
+</configs>

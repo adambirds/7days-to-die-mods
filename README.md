@@ -12,6 +12,8 @@ A collection of various 7 Days to Die Mods I have created.
 
 * [**Super Generator Banks**](/SuperGeneratorBanks/README.md) - This mod makes the Generator Bank and Battery Banks supply a lot more power.
 
+* [**Blow Up The World**](/BlowUpTheWorld/README.md) - This mod makes the dynamite and rocket launcher HE ammo super powered.
+
 * [**Better Storage Options**](/BetterStorageOptions/README.md) - This mod provides you with more storage options such as crafting hardened crates, ammunition boxes, military boxes that act like normal storage boxes. **Note:** This mod is currently a work in progress.
 ## License
 
